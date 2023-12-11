@@ -1,3 +1,15 @@
+git config --global user.name “ausecgit”
+git config --global user.email “dmausec@protonmail.com”
+
 git add -A
 git commit -m "Message explaining my changes"
 git push
+
+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
+
+
+
+
+
+git branch
+git checkout laptop

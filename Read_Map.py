@@ -24,12 +24,12 @@ data_pd = pd.read_csv(filename, sep ='\t', header = None)[0]
 
 
     
-dataO=[]
-sub_list=[]
-for row in data_pd:
-    for sub_item in row:
-        sub_list.append(sub_item)
-    dataO.append(sub_list)
-    sub_list=[]
+# dataO=[]
+# sub_list=[]
+# for row in data_pd:
+#     for sub_item in row:
+#         sub_list.append(sub_item)
+#     dataO.append(sub_list)
+#     sub_list=[]
     
-dataO = np.array(dataO)
+# dataO = np.array(dataO)

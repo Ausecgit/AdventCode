@@ -93,9 +93,6 @@ t2hA = np.array(t2hA)
 h2lA = np.array(h2lA)
 
 
-
-
-
 #@jit
 def track(seedmap, in_seed):
     for item in seedmap:
