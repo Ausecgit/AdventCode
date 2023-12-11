@@ -3,9 +3,8 @@ git config --global user.email “dmausec@protonmail.com”
 
 git add -A
 git commit -m "Message explaining my changes"
-git push
+git push --set-upstream origin PC
 
-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
 
 
 
